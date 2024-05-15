@@ -2,6 +2,8 @@
 
 1. Please pay attention to the context when running, do not run "out of context".运行时请注意上下文，不要“断章取义”运行。
 
+1. Adopt a large number of examples, and strive to grasp the usage quickly from the example, easy to imitate and as a reference book.采用大量的示例，力求从实例，快速掌握用法，便于模仿和作为工具书。
+
 1. Comparison examples are often used in the tutorial, please pay attention to taste.教程中常采用对比示例，请注意品味。
 
 1. The randomForest version of the tutorial is 0.16.0, and the results may vary from version to version.教程制作randomForest版本为0.16.0，不同的版本可能结果会有差异。
